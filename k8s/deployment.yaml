@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: prameshwar884/flask-k8s-app:v1
+        image: prameshwar884/flask-k8s-app:15130517521
         ports:
         - containerPort: 5000
